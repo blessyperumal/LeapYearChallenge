@@ -15,9 +15,10 @@ Implement a simple program that will return ***true*** if a year is a leap year 
 	- All years divisible by 4 but not by 100 ARE leap years (e.g., 2008, 2012, 2016)
 	- All years not divisible by 4 are NOT leap years (e.g. 2017, 2018, 2019)
 	
-### **Please commit your code in your _team_ branches.**
-
-
+### Good to know: 
+	+ Use your favourite IDE & programming language
+	+ Bonus points for the fastest program
+	+ Please create a branch and commit your code there
 
 ###  Bonus
 **Does your code take the above 4 crtieria into account? _Well done!_** 
