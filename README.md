@@ -14,6 +14,8 @@ Implement a simple program that will return ***true*** if a year is a leap year 
 	- All years divisible by 100 but not by 400 are NOT leap years (so, for example, 1700, 1800, and 1900 were NOT leap years, NOR will 2100 be a leap year)
 	- All years divisible by 4 but not by 100 ARE leap years (e.g., 2008, 2012, 2016)
 	- All years not divisible by 4 are NOT leap years (e.g. 2017, 2018, 2019)
+	
+### **Please commit your code in your _team_ branches.**
 
 ###  Bonus
 **Does your code take the above 4 crtieria into account? _Well done!_** 
